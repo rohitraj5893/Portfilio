@@ -24,7 +24,7 @@ function Services() {
                     <div className='p-4 flex flex-col space-y-4'>
                         <h4 className='flex justify-center'><VscAzureDevops/></h4>
                         <p className='text-[0.8rem] text-center text-[#1c1c1d] font-bold'>DevOps Operations</p>
-                        <p className='text-sm text-center text-[#515153]'>Better understanding of Deployement tools.</p>
+                        <p className='text-sm text-center text-[#515153]'>Basic understanding of Deployement tools.</p>
  
                     </div>
                 </div>

@@ -6,6 +6,7 @@ import TeckSkill from './componets/TeckSkill'
 import Project from './componets/Project'
 import Services from './componets/Services'
 import Contact from './componets/Contact'
+import Footer from './componets/Footer'
 
 
 function App() {
@@ -20,6 +21,7 @@ function App() {
      <Project />
      <Services/>
      <Contact/>
+     <Footer/>
   </div>
   )
 }
