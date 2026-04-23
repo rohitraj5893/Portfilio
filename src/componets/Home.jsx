@@ -10,7 +10,7 @@ function Home() {
             </div>
             <div className="absolute bottom-0 left-1/2 -translate-x-1/2 flex justify-center pointer-events-none">
                 <img
-                    src="/src/assets/sung.png"
+                    src="./assets/sung.png"
                     alt="profile"
                     className=" h-[60vh] sm:h-[70vh] md:h-[80vh] lg:h-[85vh] w-auto object-contain"
                 />
